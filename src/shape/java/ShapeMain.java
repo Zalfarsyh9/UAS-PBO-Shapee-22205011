@@ -7,6 +7,9 @@ package shape.java;
 /**
  *
  * @author User
+ * Nama : Zalfa Rosiyah Riski 
+ * Nim : 22205011
+ * Jurusan : Teknik Informatika
  */
 
 import java.util.Scanner;
